@@ -1,0 +1,18 @@
+﻿生成启动时间为 2018/11/23 星期五 上午 9:24:58。
+     1>项目“G:\2018数据结构实训\ExprCPro2\ExprCPro\ExprCPro.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\ExprCPro.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Expr.cpp
+         Expr.cpp
+     1>g:\2018数据结构实训\exprcpro2\exprcpro\stdafx.h(1): error C2065: “SeqStack”: 未声明的标识符
+     1>g:\2018数据结构实训\exprcpro2\exprcpro\stdafx.h(1): error C2065: “S”: 未声明的标识符
+     1>g:\2018数据结构实训\exprcpro2\exprcpro\stdafx.h(1): error C2182: “StackInitiate”: 非法使用“void”类型
+     1>g:\2018数据结构实训\exprcpro2\exprcpro\stdafx.h(1): error C2365: “StackInitiate”: 重定义；以前的定义是“函数”
+                 g:\2018数据结构实训\exprcpro2\exprcpro\expr.h(9) : 参见“StackInitiate”的声明
+     1>g:\2018数据结构实训\exprcpro2\exprcpro\stdafx.h(1): fatal error C1903: 无法从以前的错误中恢复；正在停止编译
+     1>已完成生成项目“G:\2018数据结构实训\ExprCPro2\ExprCPro\ExprCPro.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:02.14

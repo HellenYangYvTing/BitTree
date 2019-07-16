@@ -1,0 +1,1 @@
+int InitQueue(Queue &q,int nSize);
